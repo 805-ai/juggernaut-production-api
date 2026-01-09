@@ -7,3 +7,5 @@ venv/
 .vercel
 node_modules/
 *.log
+
+.vercel

@@ -11,10 +11,5 @@
       "src": "/(.*)",
       "dest": "api/index.py"
     }
-  ],
-  "env": {
-    "MONGODB_URI": "@mongodb_uri",
-    "API_KEY": "@api_key",
-    "SIGNING_SECRET": "@signing_secret"
-  }
+  ]
 }
